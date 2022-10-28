@@ -4,11 +4,6 @@
   font-family: 'sans';
 }
 
-@font-face {
-  font-family: 'sans';
-  src: url(font/sans.ttf);
-}
-
 html {
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
